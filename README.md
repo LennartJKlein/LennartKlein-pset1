@@ -30,6 +30,8 @@ https://github.com/LennartJKlein/LennartKlein-pset1.git
 
 Open the folder "LennartKlein-pset1" in Android Studio. The program will recognise it as an app project.
 
+> Notice: Android Studio will tell you it misses two .IML files. This is normal: these files will be generated for you when you save the project.
+
 To run the app on an emulator or your connected Android phone, press the green triangle 'Run'. Or use the shortcut:
 
 ```
