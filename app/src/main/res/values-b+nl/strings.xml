@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mr. Aardappelhoofd</string>
+    <string name="description">Wat moet deze aardappel dragen?</string>
+    <string name="arms">Armen</string>
+    <string name="body">Lichaam</string>
+    <string name="ears">Oren</string>
+    <string name="eyebrows">Wenkbrauwen</string>
+    <string name="eyes">Ogen</string>
+    <string name="glasses">Bril</string>
+    <string name="hat">Hoed</string>
+    <string name="mouth">Mond</string>
+    <string name="mustache">Snor</string>
+    <string name="nose">Neus</string>
+    <string name="shoes">Schoenen</string>
+    <string name="reset">Leegmaken</string>
+</resources>
