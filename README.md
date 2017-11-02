@@ -1,4 +1,4 @@
-# Mr. Potato Head
+# ![Mr. Potato Head - icon](/doc/app-icon.png?raw=true "Mr. Potato Head - icon") Mr. Potato Head
 
 An android dress-up game in which you can dress up Mr. Potato Head from Toy Story.
 
