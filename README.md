@@ -2,6 +2,10 @@
 
 An android dress-up game in which you can dress up Mr. Potato Head from Toy Story.
 
+![Mr. Potato Head - english](/doc/screenshot-en.png?raw=true "Mr. Potato Head - english")
+![Mr. Potato Head - landscape](/doc/screenshot-en-landscape.png?raw=true "Mr. Potato Head - landscape")
+![Mr. Potato Head - dutch](/doc/screenshot-nl.png?raw=true "Mr. Aardappelhoofd - Nederlands")
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
